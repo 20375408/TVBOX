@@ -9,7 +9,7 @@
     {"name":"平台直播","type":0,"url":"https://tv.iill.top/m3u/Live","ua":"okhttp/3.15","playerType":2}
   ],
   "sites":[
-    {"key":"豆瓣","name":"豆瓣","type": 3,"api":"csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+    {"key":"大国影视","name":"大国影视","type": 3,"api":"csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key":"玩偶哥","name":"玩偶哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
     {"key":"csp_NanGua","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_Jpys","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
