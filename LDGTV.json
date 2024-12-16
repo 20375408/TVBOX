@@ -1,4 +1,5 @@
 {
+  "spider":"https://raw.kkgithub.com/2hacc/TVBox/main/jar/tvbox.txt;md5;265301f463ec681dcbba91897f20f08b",
   "lives":[
     {"name":"IPV4","type":0,"url":"https://raw.githubusercontent.com/20375408/TVBox/main/demo.txt","playerType":1}
   ],
