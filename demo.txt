@@ -67,11 +67,10 @@ CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122576
 
 地方频道,#genre#
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-http://live.0359tv.com/lsdream/p5eq48m/live.m3u8
-#EXTINF:-1 group-title="陕西台" tvg-id="陕西一套新闻资讯频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0525/20140525023121438.jpg",陕西一套新闻资讯频道
+陕西一套新闻资讯频道，http://live.0359tv.com/lsdream/p5eq48m/live.m3u8
+陕西二套，
 http://stream.snrtv.com/sxbc-1-aFOQSV.m3u8
-#EXTINF:-1 group-title="陕西台" tvg-id="陕西二套都市青春频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0525/20140525023534824.jpg",陕西二套都市青春频道
-http://stream.snrtv.com/sxbc-2-fixJS8.m3u8
+二套都市青春频道，http://stream.snrtv.com/sxbc-2-fixJS8.m3u8
 #EXTINF:-1 group-title="陕西台" tvg-id="陕西三套生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0530/20140530094715826.jpg",陕西三套生活频道
 http://stream.snrtv.com/sxbc-3-ruyAG0.m3u8
 #EXTINF:-1 group-title="陕西台" tvg-id="陕西五套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0713/20140713102739568.jpg",陕西五套公共频道
