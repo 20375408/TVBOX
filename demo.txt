@@ -17,6 +17,7 @@ CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8#http://121.24.98.226:8090/hls/14/index.m3u8
 CCTV-7国防军事·,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
@@ -68,9 +69,8 @@ CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122576
 地方频道,#genre#
 陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 陕西一套新闻资讯频道，http://live.0359tv.com/lsdream/p5eq48m/live.m3u8
-陕西二套，
-http://stream.snrtv.com/sxbc-1-aFOQSV.m3u8
-二套都市青春频道，http://stream.snrtv.com/sxbc-2-fixJS8.m3u8
+陕西二套,http://stream.snrtv.com/sxbc-1-aFOQSV.m3u8
+二套都市青春频道,http://stream.snrtv.com/sxbc-2-fixJS8.m3u8
 #EXTINF:-1 group-title="陕西台" tvg-id="陕西三套生活频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0530/20140530094715826.jpg",陕西三套生活频道
 http://stream.snrtv.com/sxbc-3-ruyAG0.m3u8
 #EXTINF:-1 group-title="陕西台" tvg-id="陕西五套公共频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0713/20140713102739568.jpg",陕西五套公共频道
