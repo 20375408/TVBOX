@@ -239,6 +239,8 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 地方频道,#genre#
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
+陕西卫视,http://stream.snrtv.com/sxbc-star-hmxNPQ.m3u8
+
 
 AKTV频道,#genre#
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
