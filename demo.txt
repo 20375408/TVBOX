@@ -10,7 +10,150 @@
 👉👉支持所有线路,https://vd3.bdstatic.com/mda-mh6gqq4b59z26cjx/1080p/cae_h264/1628504623473300938/mda-mh6gqq4b59z26cjx.mp4
 👉👉直播高清流畅,https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947/mda-mgciytzb45z6z8yj.mp4
 👉👉更换享受超清,https://vd2.bdstatic.com/mda-qms7evqgkhrxvs5b/576p/h264/1735279989228434250/mda-qms7evqgkhrxvs5b.mp4?auth_key=1735495802-0-0-4429c9982b233cda399012e06ec9688d&bcevod_channel=searchbox_feed&cr=1&cd=0&pd=1&pt=4&logid=0601975355&vid=7054748946217824449&abtest=all
+国内频道,#genre#
+CCTV-01,http://go.bkpcp.top/mg/cctv1
+CCTV-02,http://go.bkpcp.top/mg/cctv2
+CCTV-03,http://go.bkpcp.top/mg/cctv3
+CCTV-04,http://go.bkpcp.top/mg/cctv4
+CCTV-05,http://go.bkpcp.top/mg/cctv5
+CCTV-5+,http://go.bkpcp.top/mg/cctv5p
+CCTV-06,http://go.bkpcp.top/mg/cctv6
+CCTV-07,http://go.bkpcp.top/mg/cctv7
+CCTV-08,http://go.bkpcp.top/mg/cctv8
+CCTV-09,http://go.bkpcp.top/mg/cctv9
+CCTV-10,http://go.bkpcp.top/mg/cctv10
+CCTV-11,http://go.bkpcp.top/mg/cctv11
+CCTV-12,http://go.bkpcp.top/mg/cctv12
+CCTV-13,http://go.bkpcp.top/mg/cctv13
+CCTV-14,http://go.bkpcp.top/mg/cctv14
+CCTV-15,http://go.bkpcp.top/mg/cctv15
+CCTV-16,http://go.bkpcp.top/mg/cctv16
+CCTV-17,http://go.bkpcp.top/mg/cctv17
+cct4欧洲,http://go.bkpcp.top/mg/cctv4o
+cct4美洲,http://go.bkpcp.top/mg/cctv4m
+CGTN-西,http://go.bkpcp.top/mg/cgtne
+CGTN-阿,http://go.bkpcp.top/mg/cgtna
+CGTN-法,http://go.bkpcp.top/mg/cgtnf
+北京卫视,http://go.bkpcp.top/mg/bjws
+东方卫视,http://go.bkpcp.top/mg/dfws
+浙江卫视,http://go.bkpcp.top/mg/zjws
+江苏卫视,http://go.bkpcp.top/mg/jsws
+湖南卫视,http://go.bkpcp.top/mg/hunws
+广东卫视,http://go.bkpcp.top/mg/gdws
+深圳卫视4k,http://go.bkpcp.top/mg/szws
+山东卫视,http://go.bkpcp.top/mg/sdws
+河南卫视,http://go.bkpcp.top/mg/hnws
+江西卫视,http://go.bkpcp.top/mg/jxws
+湖北卫视,http://go.bkpcp.top/mg/hubws
+海南卫视,http://go.bkpcp.top/mg/hinws
+陕西卫视,http://go.bkpcp.top/mg/sxws
+兵团卫视,http://go.bkpcp.top/mg/btws
+黑龙江视,http://go.bkpcp.top/mg/hljws
+广东珠江,http://go.bkpcp.top/mg/gdzj
+广东体育,http://go.bkpcp.top/mg/gdty
+大湾区卫视,http://go.bkpcp.top/mg/gddwq
+广东影视,http://go.bkpcp.top/mg/gdys
+广东新闻,http://go.bkpcp.top/mg/gdxw
+广东民生,http://go.bkpcp.top/mg/gdms
+深圳卫视4k,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
 
+港台频道,#genre#
+有线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+无线翡翠,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
+无线翡翠,http://erp.giihgtidg.com:8080/live/jade01.m3u8
+有线综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
+有线综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogehoy77511.flv
+民视第一频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
+民视闽南频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
+东森超视频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
+东森综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dszh.flv
+中天亚洲频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
+中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
+八大第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
+八大综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
+ELta娱乐频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
+凤凰电影频标,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+无线赛马,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
+Plus综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
+广东体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
+广东新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
+广东民生,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
+广东影视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
+
+移动网络,#genre#
+CCTV1,http://sh.lnott.top:880/dx01.m3u8
+CCTV2,http://sh.lnott.top:880/dx02.m3u8
+CCTV3,http://sh.lnott.top:880/dx03.m3u8
+CCTV4,http://sh.lnott.top:880/dx04.m3u8
+CCTV5,http://sh.lnott.top:880/dx05.m3u8
+CCTV5+,http://sh.lnott.top:880/dx16.m3u8
+CCTV6,http://sh.lnott.top:880/dx06.m3u8
+CCTV7,http://sh.lnott.top:880/dx07.m3u8
+CCTV8,http://sh.lnott.top:880/dx08.m3u8
+CCTV9,http://sh.lnott.top:880/dx09.m3u8
+CCTV10,http://sh.lnott.top:880/dx10.m3u8
+CCTV11,http://sh.lnott.top:880/dx11.m3u8
+CCTV12,http://sh.lnott.top:880/dx12.m3u8
+CCTV13,http://sh.lnott.top:880/dx13.m3u8
+CCTV14,http://sh.lnott.top:880/dx14.m3u8
+CCTV15,http://sh.lnott.top:880/dx15.m3u8
+CCTV16,http://sh.lnott.top:880/dx16.m3u8
+CCTV17,http://sh.lnott.top:880/dx17.m3u8
+浙江卫视,http://sh.lnott.top:880/dx32.m3u8
+辽宁卫视,http://sh.lnott.top:880/dx19.m3u8
+湖南卫视,http://sh.lnott.top:880/dx31.m3u8
+江苏卫视,http://sh.lnott.top:880/dx33.m3u8
+吉林卫视,http://sh.lnott.top:880/dx37.m3u8
+厦门卫视,http://sh.lnott.top:880/dx48.m3u8
+农林卫视,http://sh.lnott.top:880/dx60.m3u8
+风云音乐,http://sh.lnott.top:880/dx73.m3u8
+北京卫视,http://sh.lnott.top:880/dx29.m3u8
+东南卫视,http://sh.lnott.top:880/dx47.m3u8
+央视台球,http://sh.lnott.top:880/dx82.m3u8
+辽宁北方,http://sh.lnott.top:880/dx25.m3u8
+辽宁经济,http://sh.lnott.top:880/dx26.m3u8
+辽宁公共,http://sh.lnott.top:880/dx27.m3u8
+辽宁都市,http://sh.lnott.top:880/dx20.m3u8
+天津卫视,http://sh.lnott.top:880/dx30.m3u8
+辽宁生活,http://sh.lnott.top:880/dx23.m3u8
+新闻综合,http://sh.lnott.top:880/dx28.m3u8
+安徽卫视,http://sh.lnott.top:880/dx34.m3u8
+东方卫视,http://sh.lnott.top:880/dx35.m3u8
+山东卫视,http://sh.lnott.top:880/dx38.m3u8
+山西卫视,http://sh.lnott.top:880/dx39.m3u8
+广东卫视,http://sh.lnott.top:880/dx40.m3u8
+广西卫视,http://sh.lnott.top:880/dx41.m3u8
+湖北卫视,http://sh.lnott.top:880/dx42.m3u8
+江西卫视,http://sh.lnott.top:880/dx43.m3u8
+河南卫视,http://sh.lnott.top:880/dx44.m3u8
+四川卫视,http://sh.lnott.top:880/dx45.m3u8
+重庆卫视,http://sh.lnott.top:880/dx46.m3u8
+云南卫视,http://sh.lnott.top:880/dx49.m3u8
+贵州卫视,http://sh.lnott.top:880/dx50.m3u8
+陕西卫视,http://sh.lnott.top:880/dx51.m3u8
+宁夏卫视,http://sh.lnott.top:880/dx53.m3u8
+青海卫视,http://sh.lnott.top:880/dx54.m3u8
+新疆卫视,http://sh.lnott.top:880/dx55.m3u8
+甘肃卫视,http://sh.lnott.top:880/dx56.m3u8
+西藏卫视,http://sh.lnott.top:880/dx57.m3u8
+海南卫视,http://sh.lnott.top:880/dx58.m3u8
+兵团卫视,http://sh.lnott.top:880/dx59.m3u8
+深圳卫视,http://sh.lnott.top:880/dx61.m3u8
+河北卫视,http://sh.lnott.top:880/dx63.m3u8
+纪实科教,http://sh.lnott.top:880/dx64.m3u8
+家庭理财,http://sh.lnott.top:880/dx65.m3u8
+嘉佳卡通,http://sh.lnott.top:880/dx67.m3u8
+风云足球,http://sh.lnott.top:880/dx71.m3u8
+世界地理,http://sh.lnott.top:880/dx72.m3u8
+兵器科技,http://sh.lnott.top:880/dx81.m3u8
+中华特产,http://sh.lnott.top:880/dx83.m3u8
+金鹰卡通,http://sh.lnott.top:880/dx88.m3u8
+哈哈炫动,http://sh.lnott.top:880/dx89.m3u8
+风云剧场,http://sh.lnott.top:880/dx94.m3u8
+怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
+辽宁教育青少,http://sh.lnott.top:880/dx24.m3u8
+辽宁体育休闲,http://sh.lnott.top:880/dx22.m3u8
 
 央视[IPV4],#genre#
 
